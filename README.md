@@ -1,1 +1,1 @@
-# liceaTemp
+# licealTemp
